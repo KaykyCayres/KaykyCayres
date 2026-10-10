@@ -10,11 +10,9 @@ Estudante de **Inteligência Artificial na FIAP** e **técnico em Redes de Compu
 ## Projetos em destaque
 | Projeto | Descrição |
 |---|---|
+| [EcoWatt](https://github.com/KaykyCayres/EcoWatt) | Sistema IoT com app Flutter para monitorar o consumo de energia em tempo real (ESP32 + Firebase). Melhor Projeto Integrador do IFSP, Cybergites 2025 |
 | [1TIAPR-2026](https://github.com/KaykyCayres/1TIAPR-2026) | Exercícios e checkpoint das aulas de Python (FIAP) |
 | [sabor-express](https://github.com/KaykyCayres/sabor-express) | Aplicativo de terminal em Python para gerenciar restaurantes (curso da Alura) |
-
-## Outras experiências
-- **EcoWatt**: dispositivo IoT desenvolvido em equipe (ESP32 com sensores de consumo de energia e aplicativo Android em Flutter), onde atuei na concepção da ideia, na programação e no design.
 
 ## Contato
 [LinkedIn](https://www.linkedin.com/in/kayky-cayres-vicente-da-silva-3b540a335/)
